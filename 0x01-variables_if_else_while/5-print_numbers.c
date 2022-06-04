@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* main.c */
-int main(int argc, char *argv[])
+int main (void)
 {
 	int a = 0;
 
