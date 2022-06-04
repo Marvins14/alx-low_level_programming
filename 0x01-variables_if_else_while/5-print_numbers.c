@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/**
- *main - entry point
- *
- *return: always 0(success)
- *main.c
- **/
+/* main.c */
 int main(void)
 {
 	int a = 0;
