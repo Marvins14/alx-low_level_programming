@@ -2,6 +2,7 @@
 #include <stdlib.h>
 /**
  *  main - this is description
+ *  return - returns 0
  */
 int main(void)
 {
