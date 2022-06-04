@@ -4,6 +4,7 @@
  *main - entry point
  *
  *return: always 0(success)
+ *main.c
  **/
 int main(void)
 {
