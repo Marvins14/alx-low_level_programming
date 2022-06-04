@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  main.c - this is description
+ *  main - this is description
  */
 int main(void)
 {
