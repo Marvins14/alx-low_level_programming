@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /**
  *  main - this is description
- *  Return - returns 0
+ *
+ *  Return: returns 0
  */
 int main(void)
 {
