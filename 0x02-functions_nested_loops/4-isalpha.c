@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * salpha - main function
+ * main - main function
  *
  * @c: character to compare
  *
