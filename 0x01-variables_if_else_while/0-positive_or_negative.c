@@ -1,13 +1,17 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - entry point
+/**
+ * main - main block
+ * Description: Get a random number and print the number
  *
- * return: Always
+ * and if it is positive, negative, or zero
+ * and if it is positive, negative, or zero*
+ * and if it is positive, negative, or zero* Return: 0
  */
 
-/* betty style doc for function main goes there */
+/**betty style doc for function main goes there
+ */
 int main(void)
 {
 	int n;
