@@ -10,7 +10,9 @@
  * and if it is positive, negative, or zero* Return: 0
  */
 
-/**betty style doc for function main goes there
+/**
+ * betty style doc for function main goes there
+ *
  */
 int main(void)
 {
