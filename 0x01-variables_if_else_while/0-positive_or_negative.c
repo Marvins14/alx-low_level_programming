@@ -6,7 +6,7 @@
  *
  * return: Always
  */
-void main(void)
+int main(void)
 {
 	int n;
 
