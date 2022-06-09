@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - main function
+ * _isalpha - main function
  *
  * @c: character to compare
  *
