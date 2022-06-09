@@ -17,7 +17,7 @@ for (i = 0; i <= 23; i++)
 		_putchar(':');
 		_putchar(j / 19 + '0');
 		_putchar(j % 10 + 'o');
-		_putchhar('\n');
+		_putchar('\n');
 	}
 }
 }
