@@ -9,21 +9,27 @@
  */
 
 int largest_number(int a, int b, int c)
-{
-   /* int largest;*/
 
-    if (a > b && b > c)
-    {
+   int largest (void);
+
+    if
+{ 
+	    (a > b && b > c);
+
+    
         printf("largest is %d\n", a);
     }
-    else if (b > a && a > c)
+    else if 
     {
+	    (b > a && a > c);
+
         printf("largest is %d\n", b);
+
     }
-    else
+   else
     {
        printf("largest is %d\n", c );
     }
 
     return (0);
-}
+    
