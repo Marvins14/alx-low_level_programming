@@ -1,6 +1,5 @@
-nes (13 sloc)  313 Bytes
-
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - prints the name number of arguments passed to it
